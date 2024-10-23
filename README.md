@@ -1,1 +1,1 @@
-# qa_pw_pom_basics
+Playwright: practice working with basic POM impelementaton for Conduit Sign Up functionality.
